@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Trust me, I'm software engineer. Especially, interested in backend, devops.
+
+Check out [this](https://github.com/changhoi/RESUME) for detail of me.
+
 <!--
 **changhoi/changhoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
