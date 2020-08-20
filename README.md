@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Trust me, I'm software engineer. Especially, interested in backend, devops.
+Trust me, I'm engineer. Especially, interested in backend, devops.
 
 Check out [this](https://github.com/changhoi/RESUME) for detail of me.
 
