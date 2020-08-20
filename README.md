@@ -4,6 +4,13 @@ Trust me, I'm software engineer. Especially, interested in backend, devops.
 
 Check out [this](https://github.com/changhoi/RESUME) for detail of me.
 
+## Link
+
+- blog: <https://changhoi.github.io/>
+- resume: <https://github.com/changhoi/RESUME>
+- email: <0417kch@naver.com>
+- linked in: <https://www.linkedin.com/in/changhoi-kim-720104173/>
+
 <!--
 **changhoi/changhoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
