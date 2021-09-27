@@ -6,8 +6,6 @@
 
 ## Hi there 👋
 
-Trust me, I'm engineer.
-
 Interested in backend, infrastructure, etc.
 
 Check out [this](https://github.com/changhoi/RESUME) for detail of me.
