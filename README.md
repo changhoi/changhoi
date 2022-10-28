@@ -3,7 +3,7 @@
 
 ## Link
 
-- blog: <https://changhoi.github.io/>
+- blog: <https://changhoi.kim/>
 - resume: <https://github.com/changhoi/RESUME>
 - email: <0417kch@naver.com>
-- linked in: <https://www.linkedin.com/in/changhoi-kim-720104173/>
+- linked in: <https://www.linkedin.com/in/changhoi/>
